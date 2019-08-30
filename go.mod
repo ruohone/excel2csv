@@ -1,4 +1,4 @@
-module excel2csv
+module github.com/ruohone/excel2csv
 
 go 1.12
 
